@@ -1,0 +1,78 @@
+{
+  "phase": 1,
+  "two_player": false,
+  "player1": {
+    "x": 640,
+    "y": 600,
+    "health": 100,
+    "score": 0,
+    "extra_guns": 0,
+    "teleport": false
+  },
+  "player2": {
+    "x": 320,
+    "y": 600,
+    "health": 100,
+    "score": 0,
+    "extra_guns": 0,
+    "teleport": false
+  },
+  "meteors": [
+    {
+      "x": 399,
+      "y": -100,
+      "speedy": 2,
+      "speedx": -1,
+      "kind": "normal"
+    },
+    {
+      "x": 711,
+      "y": -202,
+      "speedy": 1,
+      "speedx": 1,
+      "kind": "normal"
+    },
+    {
+      "x": 792,
+      "y": -145,
+      "speedy": 3,
+      "speedx": 2,
+      "kind": "normal"
+    },
+    {
+      "x": 983,
+      "y": -104,
+      "speedy": 1,
+      "speedx": -1,
+      "kind": "normal"
+    },
+    {
+      "x": 187,
+      "y": 35,
+      "speedy": 3,
+      "speedx": 0,
+      "kind": "normal"
+    },
+    {
+      "x": 156,
+      "y": -69,
+      "speedy": 3,
+      "speedx": -1,
+      "kind": "normal"
+    },
+    {
+      "x": 339,
+      "y": 97,
+      "speedy": 4,
+      "speedx": -1,
+      "kind": "evil"
+    },
+    {
+      "x": 473,
+      "y": -207,
+      "speedy": 1,
+      "speedx": 2,
+      "kind": "normal"
+    }
+  ]
+}
