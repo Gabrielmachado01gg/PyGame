@@ -1,0 +1,82 @@
+[
+  {
+    "name": "PLAYER1",
+    "score": 2000,
+    "date": "2025-12-01 19:33",
+    "phases": 3,
+    "victory": true,
+    "progress": "VIT\u00d3RIA (Fase 3)"
+  },
+  {
+    "name": "PLAYER1",
+    "score": 2000,
+    "date": "2025-12-01 19:43",
+    "phases": 3,
+    "victory": true,
+    "progress": "VIT\u00d3RIA (Fase 3)"
+  },
+  {
+    "name": "PLAYER1",
+    "score": 1500,
+    "date": "2025-12-01 19:16",
+    "phases": 1,
+    "victory": false,
+    "progress": "Fase 1"
+  },
+  {
+    "name": "PLAYER1",
+    "score": 1500,
+    "date": "2025-12-01 19:16",
+    "phases": 2,
+    "victory": false,
+    "progress": "Fase 2"
+  },
+  {
+    "name": "PLAYER1",
+    "score": 1500,
+    "date": "2025-12-01 19:17",
+    "phases": 1,
+    "victory": false,
+    "progress": "Fase 1"
+  },
+  {
+    "name": "PLAYER1",
+    "score": 1500,
+    "date": "2025-12-01 19:18",
+    "phases": 1,
+    "victory": false,
+    "progress": "Fase 1"
+  },
+  {
+    "name": "PLAYER1",
+    "score": 1500,
+    "date": "2025-12-01 19:19",
+    "phases": 2,
+    "victory": false,
+    "progress": "Fase 2"
+  },
+  {
+    "name": "PLAYER1",
+    "score": 1500,
+    "date": "2025-12-01 19:20",
+    "phases": 1,
+    "victory": false,
+    "progress": "Fase 1"
+  },
+  {
+    "name": "PLAYER1",
+    "score": 1500,
+    "date": "2025-12-01 19:27",
+    "phases": 1,
+    "victory": false,
+    "progress": "Fase 1"
+  },
+  {
+    "name": "PLAYER1",
+    "score": 1500,
+    "date": "2025-12-01 19:28",
+    "phases": 2,
+    "victory": false,
+    "progress": "Fase 2"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "phase": 1,
+  "phase_state": "phase2",
+  "two_player": true,
+  "phases_completed": 2,
+  "player1": {
+    "x": 492,
+    "y": 625,
+    "health": 55,
+    "score": 1500,
+    "extra_guns": 0,
+    "teleport": true,
+    "lives": 10,
+    "is_alive": true
+  },
+  "player2": {
+    "x": 278,
+    "y": 600,
+    "health": 65,
+    "score": 0,
+    "extra_guns": 0,
+    "teleport": false,
+    "lives": 2,
+    "is_alive": true
+  },
+  "meteors": [],
+  "global_speed_mult": 1.9000000000000001,
+  "enemies_killed": 1,
+  "current_enemy_wave": 1
+}
