@@ -1,5 +1,9 @@
 # NOVA DESCENT — Jogo de nave em Python (Pygame)
 
+[![CI](https://github.com/Gabrielmachado01gg/PyGame/actions/workflows/ci.yml/badge.svg)](https://github.com/Gabrielmachado01gg/PyGame/actions/workflows/ci.yml)
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![Licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-green)
+
 Jogo de nave espacial 2D feito com **Pygame**, com 3 fases, modo para 1 ou 2 jogadores, powerups, chefão final, ranking de pontuações e save/load. Projeto desenvolvido em dupla por **Gabriel Wiedenhoft** e **Arthur Simioni**.
 
 ## Fases
@@ -36,7 +40,7 @@ git clone https://github.com/Gabrielmachado01gg/PyGame.git
 cd PyGame
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
-pip install pygame
+pip install -r requirements.txt
 cd JGOOPY
 python NOVA_DESCENT.py
 ```
@@ -53,3 +57,5 @@ JGOOPY/
 
 - Gabriel Wiedenhoft — [LinkedIn](https://www.linkedin.com/in/gabriel-wiedenhoft-machado)
 - Arthur Simioni
+
+Licença [MIT](LICENSE). Verifique os direitos de uso dos arquivos de imagem e áudio em `JGOOPY/assets` antes de reutilizá-los.

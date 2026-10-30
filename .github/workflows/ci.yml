@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Verificar sintaxe
+        run: python -m py_compile JGOOPY/NOVA_DESCENT.py
+      - name: Teste de fumaça (jogo abre sem travar por 5 s)
+        run: |
+          set +e
+          SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy timeout 5 python JGOOPY/NOVA_DESCENT.py
+          code=$?
+          # 124 = continuou rodando até o limite de tempo (sucesso)
+          [ "$code" -eq 124 ]
