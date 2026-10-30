@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+JGOOPY/highscores.json
+JGOOPY/savegame.json
+JGOOPY/volume_config.json
