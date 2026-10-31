@@ -58,4 +58,8 @@ JGOOPY/
 - Gabriel Wiedenhoft — [LinkedIn](https://www.linkedin.com/in/gabriel-wiedenhoft-8a3256286)
 - Arthur Simioni
 
-Licença [MIT](LICENSE). Verifique os direitos de uso dos arquivos de imagem e áudio em `JGOOPY/assets` antes de reutilizá-los.
+Licença [MIT](LICENSE). 
+
+## Créditos dos assets
+
+Imagens (como `c3po.png`) e áudio (música) em `JGOOPY/assets` vieram de bancos gratuitos de recursos para jogos. A origem exata de cada arquivo não foi registrada na época. O código do jogo é autoral e está sob a licença MIT; os assets mantêm as licenças de seus autores originais, então verifique os direitos de uso antes de reutilizá-los. Se algum arquivo é seu e você quer crédito ou remoção, abra uma issue.
