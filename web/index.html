@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Nova Descent — jogue no navegador</title>
+<meta name="description" content="Nova Descent: shooter espacial em 3 fases (asteroides, naves inimigas e chefão), de Gabriel Wiedenhoft. Versão web em HTML5 Canvas.">
+<meta name="theme-color" content="#04060f">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;800&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+<main class="palco">
+  <div class="moldura">
+    <canvas id="jogo" aria-label="Nova Descent, jogo de nave" tabindex="0"></canvas>
+    
+    <div class="girar" aria-hidden="true">Gire o aparelho para jogar na horizontal</div>
+  </div>
+  <footer class="rodape">
+    <span>Nova Descent · por Gabriel Wiedenhoft</span>
+    <a href="https://github.com/Gabrielmachado01gg/PyGame" target="_blank" rel="noopener">código no GitHub</a>
+  </footer>
+</main>
+<noscript><p class="semjs">Este jogo precisa de JavaScript.</p></noscript>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
