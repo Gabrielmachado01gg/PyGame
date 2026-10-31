@@ -10,7 +10,7 @@ Sem instalar nada: funciona no computador (teclado ou mouse) e no celular (toque
 
 ---
 
-Jogo de nave espacial 2D feito com **Pygame**, com 3 fases, modo para 1 ou 2 jogadores, powerups, chefão final, ranking de pontuações e save/load. Projeto desenvolvido em dupla por **Gabriel Wiedenhoft** e **Arthur Simioni**.
+Jogo de nave espacial 2D feito com **Pygame**, com 3 fases, modo para 1 ou 2 jogadores, powerups, chefão final, ranking de pontuações e save/load. Projeto desenvolvido por **Gabriel Wiedenhoft**.
 
 ## Fases
 
@@ -92,10 +92,9 @@ web/                  # versão para navegador
 scripts/preparar_assets_web.py
 ```
 
-## Autores
+## Autor
 
 - Gabriel Wiedenhoft — [LinkedIn](https://www.linkedin.com/in/gabriel-wiedenhoft-8a3256286)
-- Arthur Simioni
 
 Licença [MIT](LICENSE). 
 
