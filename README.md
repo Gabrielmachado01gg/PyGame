@@ -55,7 +55,7 @@ JGOOPY/
 
 ## Autores
 
-- Gabriel Wiedenhoft — [LinkedIn](https://www.linkedin.com/in/gabriel-wiedenhoft-machado)
+- Gabriel Wiedenhoft — [LinkedIn](https://www.linkedin.com/in/gabriel-wiedenhoft-8a3256286)
 - Arthur Simioni
 
 Licença [MIT](LICENSE). Verifique os direitos de uso dos arquivos de imagem e áudio em `JGOOPY/assets` antes de reutilizá-los.
